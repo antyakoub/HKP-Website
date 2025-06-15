@@ -11,13 +11,13 @@ To provide Hell’s Kitchen Pet with a professional online presence that support
 <img src="./assets/Hero.png" alt="Home Page" width="600"/>
 
 ### 🏠 About Page
-<img src="./assets/About.png" alt="Home Page" width="600"/>
+<img src="./assets/About.png" alt="About Page" width="600"/>
 
 ### 🛍️ Products Page
-<img src="./assets/Products.png" alt="Home Page" width="600"/>
+<img src="./assets/Products.png" alt="Products Page" width="600"/>
 
 ### 📱 Responsive Design
-<img src="./assets/Servuces.mov" alt="Home Page" width="600"/>
+<img src="./assets/Services.mov" alt="Responsive Demo" width="600"/>
 
 ## Who to contact
 
