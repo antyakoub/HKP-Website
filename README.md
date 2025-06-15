@@ -17,7 +17,12 @@ To provide Hell’s Kitchen Pet with a professional online presence that support
 <img src="./assets/Products.png" alt="Products Page" width="600"/>
 
 ### 📱 Responsive Design
-<img src="./assets/Services.mov" alt="Responsive Demo" width="600"/>
+<video width="600" controls>
+  <source src="./assets/Services.mov" type="video/quicktime">
+  <img src="./assets/responsive-fallback.png" alt="Responsive Demo Screenshot" width="600"/>
+  Your browser does not support the video tag.
+</video>
+
 
 ## Who to contact
 
